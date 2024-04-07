@@ -1,3 +1,3 @@
 # projeto-one-piece
 
-Projeto One Piece realizado nas aulas do curso Dev em Dobro.
+Projeto One Piece realizado nas lives do curso Dev em Dobro.
